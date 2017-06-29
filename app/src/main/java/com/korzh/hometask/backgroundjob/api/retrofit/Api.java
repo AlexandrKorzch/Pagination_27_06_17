@@ -1,4 +1,4 @@
-package com.korzh.hometask.backgroundjob.api;
+package com.korzh.hometask.backgroundjob.api.retrofit;
 
 import com.korzh.hometask.backgroundjob.model.Model;
 
@@ -11,6 +11,7 @@ import rx.Observable;
 import static com.korzh.hometask.backgroundjob.api.ApiSettings.LIMIT;
 import static com.korzh.hometask.backgroundjob.api.ApiSettings.PAGE;
 import static com.korzh.hometask.backgroundjob.api.ApiSettings.POSTS;
+
 
 /**
  * Created by alex on 6/28/17.

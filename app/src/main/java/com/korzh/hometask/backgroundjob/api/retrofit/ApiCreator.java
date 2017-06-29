@@ -1,4 +1,4 @@
-package com.korzh.hometask.backgroundjob.api;
+package com.korzh.hometask.backgroundjob.api.retrofit;
 
 import com.google.gson.GsonBuilder;
 
